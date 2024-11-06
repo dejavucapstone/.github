@@ -10,7 +10,7 @@ Welcome to <b>Dejavu</b>'s GitHub Organization! We are a team of highly motivate
 
 ## 🎯 Project Overview
 
-**Project Name**: _Gymers_
+**Project Name**: _GYMER_
 
 **Project Goal**:  
 Our goal is to create a solution that addresses **Health Innovation: Empowering Vulnerable Communities for Health and Well-being** by utilizing a combination of cutting-edge **Machine Learning**, **Cloud Computing**, and **Mobile Development** technologies. Through our project, we aim to deliver an easy-to-use educational tool that empowers users, especially tech-savvy Gen Z, to exercise with confidence and efficiency
