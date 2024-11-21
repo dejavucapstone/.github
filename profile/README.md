@@ -19,7 +19,7 @@ Our goal is to create a solution that addresses **Health Innovation: Empowering 
 
 |               Name                |         Role          |                Contact Link                |
 | :-------------------------------: | :-------------------: | :----------------------------------------: |
-|         Putu Arka Adiana          | Machine Learning Lead |  [GitHub](https://github.com/arkaadiana)   |
+|         Putu Arka Adiana          |   Machine Learning    |  [GitHub](https://github.com/arkaadiana)   |
 |      Made Praba Jaya Kusuma       |   Machine Learning    |   [GitHub](https://github.com/mdepraba)    |
 |          Putu Tio Lovan           |   Machine Learning    |  [GitHub](https://github.com/Tiolovan07)   |
 |       Dicky Zaldy Haryanto        |    Cloud Computing    | [GitHub](https://github.com/Deku077-zaldy) |
