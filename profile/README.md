@@ -27,29 +27,4 @@ Our goal is to create a solution that addresses **Health Innovation: Empowering 
 | I Nyoman Danu Daksawan Randysmara |  Mobile Development   | [GitHub](https://github.com/DanuDaksawan)  |
 |     Kadek Bayu Satria Maryana     |  Mobile Development   | [GitHub](https://github.com/BayuSatria14)  |
 
-## 📂 Repository Structure
-
-Our repositories are organized as follows:
-
-```plaintext
-dejavucaps
-│
-├── machine-learning-model
-│   └── data         # Datasets and preprocessing scripts
-│   └── models       # Model architecture, training, and evaluation
-│   └── notebooks    # Exploratory data analysis and prototyping
-│
-├── mobile-dev
-│   └── android     # Android app codebase
-│
-├── cloud-computing
-│   └── backend       # Backend API, functions, and services
-│   └── infrastructure # Deployment scripts and IaC files
-│
-└── docs     # Documentation and resources for the project
-    └── README.md    # Project overview
-    └── API_DOCS.md  # API documentation (if applicable)
-    └── CONTRIBUTING.md # Contribution guidelines
-```
-
 ---
